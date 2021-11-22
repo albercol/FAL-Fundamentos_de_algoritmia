@@ -1,8 +1,8 @@
 # FAL
 
 
-| Número del problema  | Enunciado del problema | Solución |
-| :---         |     :---:      |          ---: |
+|Nº de problema  | Nombre del problema| Solución
+|--|--|--|
 | 01   | git status     | [Problema1NumerosMaximos.cpp]
 (https://raw.githubusercontent.com/albercol/FAL/main/Soluciones/Problema1NumerosMaximos.cpp?token=AN53V4LFU7YE6QDI6ULAEYDBTO6IS "Problema1NumerosMaximos.cpp")| | |
 | 02   | git status     | [Problema2EstaBienDividido.cpp]
