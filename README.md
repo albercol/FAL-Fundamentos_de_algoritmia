@@ -24,7 +24,7 @@ Todos ellos han sido validados como **correct** por el juez automático DomJudge
 | 15   | git status     | [Problema15EliminarImpares.cpp](https://raw.githubusercontent.com/albercol/FAL/main/Soluciones/Problema16EliminarImpares.cpp?token=AN53V4J254PI6FGH6AOLSC3BTO7EK "Problema15EliminarImpares.cpp")| | |
 | 16   | git status     | [Problema16ViajesAMarte.cpp](https://github.com/albercol/FAL/blob/main/Soluciones/Problema17Viaje%20a%20Marte.cpp "Problema16ViajesAMarte.cpp")| | |
 | 17   | git status     | [Problema17CintasDeColores.cpp](https://github.com/albercol/FAL/blob/main/Soluciones/Problema18CintasColores.cpp "Problema17CintasDeColores.cpp")| | |
-| 18   | git status     | [Problema18ReleyendoUnLibro2.cpp](https://github.com/albercol/FAL/blob/main/Soluciones/Problema19Releyendo%20un%20libro.cpp "Problema18ReleyendoUnLibro2.cpp)| | |
+| 18   | git status     | [Problema18ReleyendoUnLibro2.cpp](https://github.com/albercol/FAL/blob/main/Soluciones/Problema19Releyendo%20un%20libro.cpp "Problema18ReleyendoUnLibro2.cpp")| | |
 | 19   | git status     | [Problema19KilometrosMasDuros.cpp](https://github.com/albercol/FAL/blob/main/Soluciones/Problema20KilometrosMasDuros.cpp "Problema19KilometrosMasDuros.cpp")| | |
 | 20   | git status     | [Problema20AterrizajeDeEmergencia.cpp](https://github.com/albercol/FAL/blob/main/Soluciones/Problema21Aterrizaje%20de%20emergencia.cpp "Problema20AterrizajeDeEmergencia.cpp")| | |
 | 21   | git status     | [Problema21CenaConAmigos.cpp](https://github.com/albercol/FAL/blob/main/Soluciones/Problema22CenaConAmigos.cpp "Problema21CenaConAmigos.cpp")| | |
