@@ -7,9 +7,9 @@ Todos ellos han sido validados como **correct** por el juez automático DomJudge
 
 |Nº de problema  | Nombre del problema| Solución
 |--|--|--|
-| 01   | git status     | [Problema1NumerosMaximos.cpp](https://github.com/albercol/FAL/blob/main/Soluciones/Problema1NumerosMaximos.cpp "Problema1NumerosMaximos.cpp")| | |
-| 02   | git status     | [Problema2EstaBienDividido.cpp](https://github.com/albercol/FAL/blob/main/Soluciones/ProblemaEstaBienDivididoElVector.cpp "Problema2EstaBienDividido.cpp")| | |
-| 03   | git status     | [Problema3ComoVaLaEncuesta.cpp](https://github.com/albercol/FAL/blob/main/Soluciones/problema3ComoVaLaEncuesta.cpp "Problema3ComoVaLaEncuesta.cpp")| | |
+| 01   | [Número de Máximos](https://github.com/albercol/FAL-Fundamentos_de_algoritmia/blob/main/Enunciados/A-01-Numero%20de%20maximos%20Juego%20online.pdf "Número de Máximos")     | [Problema1NumerosMaximos.cpp](https://github.com/albercol/FAL/blob/main/Soluciones/Problema1NumerosMaximos.cpp "Problema1NumerosMaximos.cpp")| | |
+| 02   | [¿Está bien dividido?](https://github.com/albercol/FAL-Fundamentos_de_algoritmia/blob/main/Enunciados/A-02-EstaBienDivididoElVector.pdf "¿Está bien dividido?")    | [Problema2EstaBienDividido.cpp](https://github.com/albercol/FAL/blob/main/Soluciones/ProblemaEstaBienDivididoElVector.cpp "Problema2EstaBienDividido.cpp")| | |
+| 03   | [¿Cómo van las encuestas?](https://github.com/albercol/FAL-Fundamentos_de_algoritmia/blob/main/Enunciados/A-03-Como%20Va%20Las%20Encuestas.pdf "¿Cómo van las encuestas?")     | [Problema3ComoVaLaEncuesta.cpp](https://github.com/albercol/FAL/blob/main/Soluciones/problema3ComoVaLaEncuesta.cpp "Problema3ComoVaLaEncuesta.cpp")| | |
 | 04   | git status     | [Problema4UnMovilNuevo.cpp](https://github.com/albercol/FAL/blob/main/Soluciones/problema4UnMovilNuevo.cpp "Problema4UnMovilNuevo.cpp")| | |
 | 05   | git status     | [Problema5UnMovilNuevoAmpliacion.cpp](https://github.com/albercol/FAL/blob/main/Soluciones/problema5Un%20movil%20nuevo%20ampliacion.cpp "Problema5UnMovilNuevoAmpliacion.cpp")| | |
 | 06   | git status     | [Problema6EvolucionDeBeneficios.cpp](https://github.com/albercol/FAL/blob/main/Soluciones/problema6Evolucion%20de%20beneficios.cpp "Problema6EvolucionDeBeneficios.cpp")| | |
