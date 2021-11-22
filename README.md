@@ -1,10 +1,10 @@
-# FAL
+# Tabla de problemas resueltos
 
 
 |Nº de problema  | Nombre del problema| Solución
 |--|--|--|
 | 01   | git status     | [Problema1NumerosMaximos.cpp]
-(https://raw.githubusercontent.com/albercol/FAL/main/Soluciones/Problema1NumerosMaximos.cpp?token=AN53V4LFU7YE6QDI6ULAEYDBTO6IS "Problema1NumerosMaximos.cpp")| | |
+(https://github.com/albercol/FAL/blob/main/Soluciones/Problema1NumerosMaximos.cpp "Problema1NumerosMaximos.cpp")| | |
 | 02   | git status     | [Problema2EstaBienDividido.cpp]
 (https://raw.githubusercontent.com/albercol/FAL/main/Soluciones/ProblemaEstaBienDivididoElVector.cpp?token=AN53V4JTSWIMSNUQMAGTSI3BTO6P6 "Problema2EstaBienDividido.cpp")| | |
 | 03   | git status     | [Problema3ComoVaLaEncuesta.cpp]
