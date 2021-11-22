@@ -1,4 +1,4 @@
-## Contenido del repositorio y usuario de Acepta el Reto
+## Contenido del repositorio DOMjudge
 Este repositorio consta una colección de soluciones en *C++* a problemas de programación planteados en la asignatura "Fundamentos de Algoritmia".
 Todos ellos han sido validados como **correct** por el juez automático DomJudge que se utiliza en la asignatura.
 
