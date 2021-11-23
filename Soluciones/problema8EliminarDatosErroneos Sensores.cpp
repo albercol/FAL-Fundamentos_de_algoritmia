@@ -1,11 +1,3 @@
-﻿// Nombre del alumno .....
-// Usuario del Juez ......
-
-
-// Nombre del alumno: Alberto Collado Mamblona
-// Usuario del Juez: A17
-
-
 #include <iostream>
 #include <iomanip>
 #include <fstream>
