@@ -1,7 +1,3 @@
-﻿// Nombre del alumno .....
-// Usuario del Juez ......
-
-
 #include <iostream>
 #include <iomanip>
 #include <fstream>
