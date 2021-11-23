@@ -1,7 +1,3 @@
-﻿// Nombre del alumno Alberto Collado MAmblona
-// Usuario del Juez A17
-
-
 #include <iostream>
 #include <iomanip>
 #include <fstream>
