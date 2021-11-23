@@ -1,7 +1,3 @@
-// Nombre y apellidos del alumno: Alberto Collado Mamblona
-// Usuario del juez de clase: A17
-// Usuario de la prueba de hoy: A09
-
 #include <iostream>
 #include <iomanip>
 #include <fstream>
@@ -9,25 +5,25 @@
 
 using namespace std;
 
-// Explicación del algoritmo utilizado
+// ExplicaciÃ³n del algoritmo utilizado
 /*
 Se define una variable que apunta al inicio del vector y 
 va poniendo los datos validos al principio de este.
 Avanza cuando el dato es valido y si no, se queda donde esta.
-Posteriormente se le asigna el tamaño del vector a dicha variable, que será el número de datos validos.
+Posteriormente se le asigna el tamaÃ±o del vector a dicha variable, que serÃ¡ el nÃºmero de datos validos.
 */
 
 
-// Explicación del coste del algoritmo implementado
+// ExplicaciÃ³n del coste del algoritmo implementado
 /*
-El Coste del algoritmo es lineal en el numero de datos de entrada, mas concretamente en el tamaño del vector.
+El Coste del algoritmo es lineal en el numero de datos de entrada, mas concretamente en el tamaÃ±o del vector.
 Se tiene que recorrer el vector entero.
 O(n)
 
 */
 
 
-// Esta función recibe un vector con los números de matricula de los alumnos
+// Esta funciÃ³n recibe un vector con los nÃºmeros de matricula de los alumnos
 // Modifica el vector de entrada eliminando los valores impares
 void resolver(std::vector<int>& v) {
     // Codigo del alumno
@@ -44,7 +40,7 @@ void resolver(std::vector<int>& v) {
 // A PARTIR DE AQUI NO SE DEBE MODIFICAR NADA
 
 // Funcion que lee de la entrada, 
-// LLama a la función que resuelve el problema
+// LLama a la funciÃ³n que resuelve el problema
 // Escribe la salida
 bool resuelveCaso() {
     // Leer datos de entrada
@@ -55,7 +51,7 @@ bool resuelveCaso() {
     for (int i = 0; i < numElem; ++i) {
         std::cin >> v[i];
     }
-    // LLamada a la función resolver
+    // LLamada a la funciÃ³n resolver
     resolver(v);
     // Escribir el vector resultado
     if (v.size() > 0) std::cout << v[0];
